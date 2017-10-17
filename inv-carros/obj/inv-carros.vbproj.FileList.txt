@@ -1,0 +1,10 @@
+bin\Debug\inv-carros.exe
+bin\Debug\inv-carros.pdb
+bin\Debug\inv-carros.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\inv_carros.Form1.resources
+obj\Debug\inv_carros.Resources.resources
+obj\Debug\inv-carros.vbproj.GenerateResource.Cache
+obj\Debug\inv-carros.exe
+obj\Debug\inv-carros.xml
+obj\Debug\inv-carros.pdb
